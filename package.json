@@ -8,7 +8,7 @@
     "url": "git://github.com/getsentry/sentry.git"
   },
   "dependencies": {
-    "@acemarke/react-prod-sourcemaps": "^0.2.1",
+    "@acemarke/react-prod-sourcemaps": "^0.3.2",
     "@babel/core": "~7.23.2",
     "@babel/plugin-transform-react-jsx": "^7.22.15",
     "@babel/plugin-transform-react-jsx-source": "^7.22.5",
